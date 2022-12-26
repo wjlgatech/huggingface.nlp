@@ -1,5 +1,6 @@
 # HuggingFace NLP
 
+## 12/26/2022
 I will organize and represent the material according to `KSPC`:
 
 - Knowledge Graph: ADEPT = [Analogies, Diagrams, Examples, Plain Stories, Technical Abstrations & Generalizations]
