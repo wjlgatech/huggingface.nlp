@@ -14,7 +14,7 @@ I will organize and represent the material according to `KSPC`:
 
 
 References: 
-1. [HuggingFace NLP Course](https://huggingface.co/docs/accelerate/index)
+1. [HuggingFace NLP Course](https://huggingface.co/course/chapter1/1)
 
 # nbdev_colab
 
