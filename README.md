@@ -1,3 +1,20 @@
+# HuggingFace NLP
+
+I will organize and represent the material according to `KSPC`:
+
+- Knowledge Graph: ADEPT = [Analogies, Diagrams, Examples, Plain Stories, Technical Abstrations & Generalizations]
+
+- Skill Streams: TRUE = [Transferable & Transformable, Reproducible & Regenerable, Understandable & Universal, Experiencible & Experimentable]
+
+- Productivity: 12P = [Person & People, Purpose & Passion, Planning & Pathways, Practices & Principles, Protocols & Policy]
+
+- Connectivity: 7C = [Confirm & Comfort, Connect & Communicate, Collaborate & Cocreate, Communion in Christ]
+
+
+
+References: 
+1. [HuggingFace NLP Course](https://huggingface.co/docs/accelerate/index)
+
 # nbdev_colab
 
 ### Why
